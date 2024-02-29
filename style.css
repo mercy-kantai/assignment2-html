@@ -1,0 +1,118 @@
+h2{
+    
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+#form{
+    background-color: #ffff;
+    margin: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    
+    
+}
+body{
+    background-color: lightcoral;
+}
+p{
+    color: deeppink;
+    font-size: 130%;
+}
+h3{
+    font-size: 300%;
+}
+button{
+    width: 15%;
+    border-radius: 5px;
+    color:#ffff;
+    background-color: blue;
+    height: 5vh;
+    
+}
+.image-container{
+    justify-content: right;    
+}
+.container{
+    display: flex;
+}
+h4{
+    font-size: 160%;
+}
+#h5{
+    display: flex;
+    justify-content: space-between;
+    font-size: 200%;
+}
+.img{
+    width: 150%;
+    height: 15vh;
+    display: flex;
+
+    
+}
+#h6{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img1{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+}
+.img2{
+    width: 100%;
+    height: 20vh;
+    
+}
+.img3{
+    width: 90%;
+    height: 50vh;
+    font-size: 300%;
+}
+.img4{
+    width: 30%;
+    height: 10vh;
+    
+}
+#h3{
+  display: flex;
+  justify-content: space-between;
+  font-size: 200%;
+}
+#h4{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#page{
+    
+    background-color: lightcoral;
+    height: 30vh;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+
+    
+}
+.img4{
+    background-color: lightcoral;
+    width: 30%;
+    height: 10vh;
+}
+.img5{
+    width: 30%;
+    height: 15vh;
+}
+#h9{
+    font-size: 200%;
+}
+#text{
+    display: flex;
+    justify-content: space-between;
+}
+
+
